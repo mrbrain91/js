@@ -44,11 +44,11 @@
 // console.log(personalMovieDB);
 
 
-if (4 == 9) {
-    console.log('ok!');
-} else {
-    console.log('error');
-}
+// if (4 == 9) {
+//     console.log('ok!');
+// } else {
+//     console.log('error');
+// }
 
 
 // const num = 50;
@@ -64,7 +64,20 @@ if (4 == 9) {
 
 // (num === 50) ? console.log('Ok'): console.log('error');
 
-const num = 50;
+// const num = 50;
 
+// switch (num) {
+//     case 49:
+//         console.log('wrong');
+//         break;
+//     case 100:
+//         console.log('wrong');
+//         break;
+//     case 51:
+//         console.log('OKK');
+//         break;
+//     default:
+//         console.log('yoq ekan');
+//         break;
 
-switch
+// }
